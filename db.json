@@ -5,11 +5,11 @@
     { "id": 3, "title": "Element 3" }
   ],
   "comments": [
-    { "id": 1, "body": "something", "postId": 1 },
-    { "id": 2, "body": "something", "postId": 1 },
-    { "id": 3, "body": "something", "postId": 1 },
-    { "id": 4, "body": "something", "postId": 1 },
-    { "id": 5, "body": "something", "postId": 1 }
+    { "id": 1, "body": "Holi,", "postId": 1 },
+    { "id": 2, "body": "esta", "postId": 1 },
+    { "id": 3, "body": "es", "postId": 1 },
+    { "id": 4, "body": "una", "postId": 1 },
+    { "id": 5, "body": "prueba", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
